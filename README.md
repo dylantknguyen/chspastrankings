@@ -32,4 +32,4 @@ and
 ```
 workbook.save(filename="Chesapeake Past Team Rankings.xlsx")
 ```
-Then, replace `sheet.append(teamrank)` with print(teamrank). 
+Then, replace `sheet.append(teamrank)` with `print(teamrank)`. 
